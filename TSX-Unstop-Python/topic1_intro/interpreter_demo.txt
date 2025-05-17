@@ -1,0 +1,9 @@
+>>> print("This is executed in the interpreter")
+This is executed in the interpreter
+
+>>> 2 + 3
+5
+
+>>> name = "Alice"
+>>> print("Hi", name)
+Hi Alice
